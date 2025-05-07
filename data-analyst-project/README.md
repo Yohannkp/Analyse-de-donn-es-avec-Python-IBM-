@@ -191,7 +191,7 @@ mse = mean_squared_error(y, y_pred)
 ---
 
 ## 7. Résultats
-- **R² pour la régression linéaire multiple** : `0.701`
+- **R² pour la régression linéaire multiple** : `0.65`
 - **R² pour la régression Ridge** : `0.648`
 - **R² pour la régression Ridge avec transformation polynomiale** : `0.700`
 
